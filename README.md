@@ -1,93 +1,96 @@
-<h1 align="center">👋 Hi, I'm Mounika Malluri!</h1>
-
+<h1 align="center">👋 Hi, I'm Mounika Malluri</h1>
 <p align="center">
-  🎓 B.Tech IT Graduate (2025) · 💡 ML & Full Stack Developer · 💻 Skilled in Python, Java, HTML, CSS, React · 🛠️ Built projects like Skin Disease Detection & Admin Dashboard · 🚀 Turning ideas into scalable, real-world applications
+  🎓 B.Tech IT Graduate (2025) &nbsp;|&nbsp; 💡 ML & Full Stack Developer &nbsp;|&nbsp; 💻 Python, Java, React, Firebase
 </p>
-
 
 ---
 
 ## 🚀 About Me
 
-I'm a **B.Tech graduate (2025)** in **Information Technology** with a strong passion for **Machine Learning**, **Data Science**, and **Full Stack Development**. I love transforming real-world problems into impactful projects through clean code, smart algorithms, and intuitive UIs.
+I'm a 2025 Information Technology graduate with a passion for **Machine Learning**, **Data Science**, and **Full Stack Development**. I enjoy turning real-world problems into impactful solutions using clean code, smart algorithms, and intuitive UI design.
 
 ---
 
 ## 🎯 Career Objective
 
-- ✅ **Graduated**: B.Tech in Information Technology (2025)  
-- 🔍 **Actively seeking**:full-time roles in Machine Learning, Data Science, or Software Development, leveraging my skills in Python, Java, HTML/CSS, and hands-on experience from projects like Skin Disease Detection and Walmart Sales Prediction.
+🔍 Actively seeking **full-time opportunities** in  
+**Machine Learning**, **Data Science**, or **Software Development**  
+with hands-on skills in:
+
+> 💻 Python · Java · HTML · CSS · React  
+> 📊 ML Libraries: Scikit-learn, TensorFlow, Keras, OpenCV  
+> 🛠️ Tools: Git, VS Code, Jupyter Notebook
 
 ---
 
 ## 💼 Projects I'm Proud Of
 
 ### 🩺 [Skin Disease Detection](https://github.com/Mounika-malluri/Skin-disease-detection)
-A CNN-based deep learning model that classifies skin lesions to assist early diagnosis.  
-**Tech Used:** `TensorFlow`, `Keras`, `OpenCV`, `Image Processing`
+> A CNN-based model that classifies skin lesions for early disease diagnosis.  
+> **Tech Used:** TensorFlow, OpenCV, Keras, Image Processing
 
 ---
 
 ### 🛒 [Walmart Sales Prediction](https://github.com/Mounika-malluri/Walmart-sales-prediction)
-Forecasts weekly Walmart sales using regression and time-series techniques.  
-**Tech Used:** `Scikit-learn`, `XGBoost`, `Pandas`, `EDA`
+> A time-series ML model that forecasts weekly Walmart sales.  
+> **Tech Used:** Scikit-learn, XGBoost, Pandas, EDA
 
 ---
 
-### 📊 [Admin Dashboard](https://github.com/Mounika-malluri/admin-dashboard)  
-A responsive admin dashboard with auth, CRUD operations, filters, and Firebase integration.  
-🔗 [Live Demo](https://admin-dashboard-nmxlduxbj-mounikas-projects-5f6c5aff.vercel.app/)  
-**Tech Used:** `React`, `Tailwind CSS`, `Firebase`, `React Router`
+### 📊 [Admin Dashboard](https://github.com/Mounika-malluri/admin-dashboard)
+> A responsive dashboard with authentication, CRUD operations, filters, and Firebase backend.  
+> 🔗 [Live Demo](https://admin-dashboard-nmxlduxbj-mounikas-projects-5f6c5aff.vercel.app/)  
+> **Tech Used:** React, Tailwind CSS, Firebase, React Router
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### 🖥️ Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Libraries & Frameworks:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+### 🧠 ML & Data Science  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
 
-**Web Development:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+### 🌐 Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📈 Currently Exploring
 
-- 🧪 Model Deployment using **Streamlit**
-- 🌐 Full-stack Development: React, Tailwind, Firebase
-- 📊 ML Interpretability using **SHAP**
-- 🛠️ Git & GitHub Best Practices
+- 🚀 ML Model Deployment with **Streamlit**
+- ⚙️ Full Stack: **React + Tailwind + Firebase**
+- 📊 Explainable AI using **SHAP**
+- 🔄 GitHub best practices & version control
 
 ---
 
-## 📫 Let's Connect!
+## 📬 Let's Connect
 
-- 📧 Email: [mounikamalluri9@gmail.com](mailto:mounikamalluri9@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) <!-- Update this with your actual LinkedIn -->
-
----
-
-<p align="center">⭐️ If you like my work, consider giving a star to my repositories!</p>
+📧 Email: [mounikamalluri9@gmail.com](mailto:mounikamalluri9@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
-<h3 align="center">🚀 Let’s grow and build together!</h3>
+## ⭐ Let's Build Together
+
+If you found my work interesting, feel free to ⭐ star my repositories.  
+I'm always open to feedback, collaboration, and learning together!
+
