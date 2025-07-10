@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Mounika Malluri!</h1>
 
 <p align="center">
-  🎓 B.Tech Graduate (2025) · 💡 ML & Full Stack Enthusiast · 💻 Passionate Developer
+  🎓 B.Tech IT Graduate (2025) · 💡 ML & Full Stack Developer · 💻 Skilled in Python, Java, HTML, CSS, React · 🛠️ Built projects like Skin Disease Detection & Admin Dashboard · 🚀 Turning ideas into scalable, real-world applications
 </p>
+
 
 ---
 
@@ -15,7 +16,7 @@ I'm a **B.Tech graduate (2025)** in **Information Technology** with a strong pas
 ## 🎯 Career Objective
 
 - ✅ **Graduated**: B.Tech in Information Technology (2025)  
-- 🔍 **Actively seeking**: Full-time roles in **ML**, **Data Science**, or **Software Development**
+- 🔍 **Actively seeking**:full-time roles in Machine Learning, Data Science, or Software Development, leveraging my skills in Python, Java, HTML/CSS, and hands-on experience from projects like Skin Disease Detection and Walmart Sales Prediction.
 
 ---
 
