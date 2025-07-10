@@ -25,67 +25,64 @@ with hands-on skills in:
 
 ## 💼 Projects I'm Proud Of
 
-### 🩺 [Skin Disease Detection](https://github.com/Mounika-malluri/Skin-disease-detection)
-> A CNN-based model that classifies skin lesions for early disease diagnosis.  
-> **Tech Used:** TensorFlow, OpenCV, Keras, Image Processing
+### 🩺 [Skin Disease Detection](https://github.com/Mounika-malluri/Skin-disease-detection)  
+A CNN-based model that classifies skin lesions for early disease diagnosis.  
+🛠️ **Tech:** TensorFlow, OpenCV, Keras, Image Processing
 
 ---
 
-### 🛒 [Walmart Sales Prediction](https://github.com/Mounika-malluri/Walmart-sales-prediction)
-> A time-series ML model that forecasts weekly Walmart sales.  
-> **Tech Used:** Scikit-learn, XGBoost, Pandas, EDA
+### 🛒 [Walmart Sales Prediction](https://github.com/Mounika-malluri/Walmart-sales-prediction)  
+A time-series ML model that forecasts weekly Walmart sales.  
+🛠️ **Tech:** Scikit-learn, XGBoost, Pandas, EDA
 
 ---
 
-### 📊 [Admin Dashboard](https://github.com/Mounika-malluri/admin-dashboard)
-> A responsive dashboard with authentication, CRUD operations, filters, and Firebase backend.  
-> 🔗 [Live Demo](https://admin-dashboard-nmxlduxbj-mounikas-projects-5f6c5aff.vercel.app/)  
-> **Tech Used:** React, Tailwind CSS, Firebase, React Router
+### 📊 [Admin Dashboard](https://github.com/Mounika-malluri/admin-dashboard)  
+A responsive dashboard with authentication, CRUD operations, filters, and Firebase backend.  
+🔗 [Live Demo](https://admin-dashboard-nmxlduxbj-mounikas-projects-5f6c5aff.vercel.app/)  
+🛠️ **Tech:** React, Tailwind CSS, Firebase, React Router
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖥️ Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-### 🧠 ML & Data Science  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
+**Libraries & ML Frameworks:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 
-### 🌐 Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Web & Tools:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📈 Currently Exploring
 
-- 🚀 ML Model Deployment with **Streamlit**
-- ⚙️ Full Stack: **React + Tailwind + Firebase**
-- 📊 Explainable AI using **SHAP**
+- 🧪 ML Model Deployment with **Streamlit**  
+- 🌐 Full-stack with **React**, **Tailwind**, **Firebase**  
+- 📊 Explainable AI using **SHAP**  
 - 🔄 GitHub best practices & version control
 
 ---
 
 ## 📬 Let's Connect
 
-📧 Email: [mounikamalluri9@gmail.com](mailto:mounikamalluri9@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+📧 Email: [mounikamalluri9@gmail.com](mailto:mounikamalluri9@gmail.com)
 
 ---
 
@@ -93,4 +90,3 @@ with hands-on skills in:
 
 If you found my work interesting, feel free to ⭐ star my repositories.  
 I'm always open to feedback, collaboration, and learning together!
-
